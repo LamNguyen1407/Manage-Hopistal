@@ -1,0 +1,13 @@
+npm init: tao pakage
+npm install express: down load thu vien
+
+cách tạo db
+tạo file model, file migrations.
+chạy: npx sequelize-cli db:migrate
+
+cachs chay seeder
+chay: npx sequelize-cli db:seed:all
+
+cach hash mk
+npm install --save bcrypt@5.0.1
+npm install --save bcryptjs@2.4.3
